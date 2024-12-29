@@ -1,5 +1,7 @@
 # Balatro Releases for Obtanium
-Repository for the releases of the game Balatro.
+<img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/7b02f0c8-d3a4-4fa6-8537-b3e877b6c539"> Repository for the releases of the game Balatro.
+
+<br>
 
 [![Downloads](https://img.shields.io/github/downloads/driftywinds/balatro-builds/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/balatro-builds/total?style=for-the-badge) [![Latest Release Downloads](https://img.shields.io/github/downloads/driftywinds/balatro-builds/latest/total?style=for-the-badge)](https://img.shields.io/github/downloads/driftywinds/balatro-builds/latest/total?style=for-the-badge) 
 
