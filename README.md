@@ -31,7 +31,7 @@ Some other projects of mine: -
 
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=mixplorer-releases&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="Balatro builds"
-    height="120">](https://github.com/driftywinds/balatro-builds)
+    height="120">](https://github.com/driftywinds/mixplorer-releases)
 
 ---
 
