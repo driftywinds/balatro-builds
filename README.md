@@ -19,6 +19,9 @@ P.S. You can import saves from your pc into your phone yourself using the balatr
 
 Some other projects of mine: - 
 
+[<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=spotify-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
+    alt="Spotify builds"
+    height="120">](https://github.com/driftywinds/spotify-builds)
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=yt-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="YT builds"
     height="120">](https://github.com/driftywinds/yt-builds)
@@ -27,8 +30,6 @@ Some other projects of mine: -
     alt="YTM Releases"
     height="120">](https://github.com/driftywinds/ytm-builds)
 &nbsp;
-
-
 [<img src="https://stats.drifty.win/api/pin?username=driftywinds&repo=mixplorer-releases&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"
     alt="Balatro builds"
     height="120">](https://github.com/driftywinds/mixplorer-releases)
