@@ -39,4 +39,10 @@ Some other projects of mine: -
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=driftywinds/balatro-builds&type=Date)](https://star-history.com/#driftywinds/balatro-builds&Date)
+<a href="https://www.star-history.com/?repos=driftywinds%2Fbalatro-builds&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=driftywinds/balatro-builds&type=date&theme=dark&legend=top-left&sealed_token=8Yge-KDNkwkas48Xuv6YcyhC_uITHtNcGx6LxvjJ9lYYXVRlanSqUfGb1RXeajdo4dSjM4e8Ni0uPyNYxDN8Hc4dPfpwlfP2vCsJDhwStmGndpg_Mh0LDg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=driftywinds/balatro-builds&type=date&legend=top-left&sealed_token=8Yge-KDNkwkas48Xuv6YcyhC_uITHtNcGx6LxvjJ9lYYXVRlanSqUfGb1RXeajdo4dSjM4e8Ni0uPyNYxDN8Hc4dPfpwlfP2vCsJDhwStmGndpg_Mh0LDg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=driftywinds/balatro-builds&type=date&legend=top-left&sealed_token=8Yge-KDNkwkas48Xuv6YcyhC_uITHtNcGx6LxvjJ9lYYXVRlanSqUfGb1RXeajdo4dSjM4e8Ni0uPyNYxDN8Hc4dPfpwlfP2vCsJDhwStmGndpg_Mh0LDg" />
+ </picture>
+</a>
